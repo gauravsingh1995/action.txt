@@ -132,7 +132,7 @@ comment         = "#" , { character } ;
 2. **Robotic Process Automation** – non‑devs automate internal web dashboards.
 3. **API Fallback** – browser‑based contingency when REST/GraphQL endpoints fail.
 
-*Case study*: Vendor onboarding flow shrank from **\~200 lines of Python+Playwright to 23 lines of action.txt**, cutting maintenance by 60 %.
+*Case study*: Yet to publish
 
 ---
 
