@@ -144,7 +144,7 @@ comment         = "#" , { character } ;
 
 ### 7  Illustrative Examples
 
-See [`/examples`](examples/) for multi‑tab, iframe, file‑upload, and retry flows.
+yet to publish
 
 ---
 
@@ -168,20 +168,10 @@ SeleniumHQ • Playwright • Gherkin • AutoGPT • LangChain • OpenAI Funct
 
 ## Roadmap
 
-See the [roadmap table in the white paper](#full-white-paper).
+yet to publish
 
 ---
 
-## Repo Layout
-
-```
-/spec            → grammar.ebnf, error-codes.md
-/examples        → ready‑to‑run scripts
-/tools           → reference parser & CLI utilities
-/docs            → rendered white paper (this file) + diagrams
-```
-
----
 
 ## Contributing
 
