@@ -2,7 +2,6 @@
 # action.txt — Minimal, Deterministic Instruction Language for the Agentic Web
 
 [![Spec Version](https://img.shields.io/badge/spec-v0.2-blue)](#roadmap)
-[![Build](https://github.com/YOURORG/actiontxt/actions/workflows/validate.yml/badge.svg)](.github/workflows/validate.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 > **TL;DR** – `action.txt` lets humans *and* AI agents automate any browser workflow with just a handful of readable lines, instead of hundreds of lines of Selenium / Playwright code, while guaranteeing deterministic, auditable runs.
